@@ -1,0 +1,106 @@
+body{
+  background: #CE6010;
+  background-image: url("garden7.jpg");
+  background-size: contain;
+ }
+
+ .titel{
+   background: linear-gradient(135deg , orange, brown, orange, brown, orange);
+   color: blue;
+   font-family: 'Pacifico';
+   font-size: 58px;
+   text-shadow: 10px 10px 20px black;
+   border-style: solid ;
+   border-color: black;
+   border-width: 5px;
+   border-radius: 20px 20px 20px 20px;
+   margin: 20px;
+   padding: 20px;
+ }
+
+nav
+{
+  background: linear-gradient(135deg , orange, brown, orange, brown, orange);
+  font-family: 'Pacifico';
+  font-size: 32px;
+  font-weight: bold;
+  border-style: solid ;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 20px 20px 20px 20px;
+  margin: 20px;
+  padding: 20px;
+
+  }
+
+h1 {
+          background: #F05000;
+          color: blue;
+          font-family: sans-serif;
+          border-style: solid ;
+          border-color: black;
+          border-width: 5px;
+          border-radius: 20px 20px 20px 20px;
+          margin: 20px;
+          padding: 20px;
+
+        }
+h2 {
+      background:  #E03000;
+      color: yellow;
+
+      font-family: sans-serif;
+      text-shadow: 3px 3px 4px black;
+      border-style: solid ;
+      border-color: black;
+      border-width: 5px;
+      border-radius: 10px 10px 10px 10px;
+      margin: 20px;
+      padding: 20px;
+
+
+
+    }
+b {
+      color: forestgreen;
+  }
+
+form{
+    background: #FF7F00;
+    padding: 15px;
+    border-style: solid ;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px ;
+   }
+
+
+a:hover{
+      color: yellow;
+      }
+
+
+
+.omschrijving {
+  background: #FF7F00;
+  width: 600px;
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-style: solid ;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 10px 50px;
+  text-align:justify;
+  box-shadow: 20px 20px 100px 15px black;
+}
+
+.plantfoto {
+  margin-left: 20px;
+  padding: 10px;
+  height: 33%;
+  width: 33%;
+
+  float: right;
+}
